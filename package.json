@@ -5,7 +5,7 @@
   "homepage": "https://ViktoriiaSlobodeniuk.github.io/filmoteka-project-team",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /filmoteka-project-team-12/"
+    "build": "parcel build src/*.html --public-url /filmoteka-project-team/"
   },
   "repository": {
     "type": "git",
